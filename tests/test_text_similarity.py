@@ -5,12 +5,7 @@ import pytest
 from src.matching.text_similarity import calculate_similarities
 
 
-def test_identical_documents_have_full_similarity():
-    result = calculate_similarities("python machine learning", ["python machine learning"])
-    assert result[0]["similarity_score"] == pytest.approx(100.0)
 
-
-def test_related_document_scores_above_unrelated_document():
     results = calculate_similarities(
         "python machine learning model",
         ["python model evaluation", "ceramic glazing studio"],

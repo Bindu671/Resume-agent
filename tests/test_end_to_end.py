@@ -4,15 +4,7 @@ from src.documents.reader import read_document
 from src.matching.pipeline import analyze_candidates
 
 
-def test_complete_pipeline_from_files_to_ranked_explanations(tmp_path):
-    job_path = tmp_path / "job.txt"
-    strong_path = tmp_path / "strong.txt"
-    weak_path = tmp_path / "weak.txt"
-    job_path.write_text(
-        "Python Machine Learning NLP scikit-learn pandas Git REST API. "
-        "1 year experience. B.Tech Computer Science.",
-        encoding="utf-8",
-    )
+
     strong_path.write_text(
         "Asha Verma\nasha@candidate.example\n+91 90000 20001\n"
         "B.Tech Computer Science\n1 year of experience\n"

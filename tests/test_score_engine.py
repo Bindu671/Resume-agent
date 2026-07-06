@@ -2,22 +2,6 @@
 
 import pytest
 
-from src.matching.score_engine import (
-    extract_experience_requirement,
-    normalize_weights,
-    score_candidate,
-    score_candidates,
-)
-
-
-def profile(skills, years=None, education=None, name="Candidate"):
-    return {
-        "candidate_name": name,
-        "technical_skills": skills,
-        "experience_years": years,
-        "education": education or [],
-        "contact": {"email": "", "phone": ""},
-    }
 
 
 def test_complete_skill_match():

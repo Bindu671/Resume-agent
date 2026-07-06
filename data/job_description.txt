@@ -1,1 +1,30 @@
+Junior AI / Machine Learning Engineer
 
+We are looking for a curious Junior AI / Machine Learning Engineer to join our
+applied AI team. You will help design, evaluate, and maintain practical machine
+learning features, with an emphasis on reproducible experiments and clear
+technical communication.
+
+Responsibilities
+- Prepare and analyze structured and unstructured data with Python, pandas, and NumPy.
+- Build and evaluate Machine Learning and Natural Language Processing solutions.
+- Develop reproducible experiments and model pipelines with scikit-learn.
+- Help expose model functionality through well-documented REST APIs.
+- Use Git for version control, review, and collaborative development.
+- Explore responsible applications of Generative AI under senior guidance.
+- Document assumptions, evaluation results, limitations, and data-quality issues.
+
+Required qualifications
+- 0 to 2 years of professional or project experience in data science, AI, or software engineering.
+- Bachelor of Technology, Bachelor of Engineering, or equivalent education in Computer Science or a related technical discipline.
+- Strong foundations in Python and Machine Learning.
+- Practical familiarity with scikit-learn, pandas, NumPy, Git, and REST APIs.
+- Basic understanding of Natural Language Processing and Generative AI.
+- Ability to communicate findings and write maintainable, testable code.
+
+Nice to have
+- Experience with FastAPI, Flask, SQL, Docker, Streamlit, or cloud platforms.
+- Personal, academic, or internship projects involving text analysis or model evaluation.
+
+This is a junior role. We value sound fundamentals, careful reasoning, learning
+ability, and responsible engineering more than exposure to every listed tool.

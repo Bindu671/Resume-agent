@@ -1,0 +1,24 @@
+Isha Narang
+isha.narang@candidate.example
++91 90000 10005
+
+PROFESSIONAL SUMMARY
+Data analyst with 1 year of experience and strong Python foundations, seeking a
+junior machine learning engineering role.
+
+SKILLS
+Python, Machine Learning, pandas, NumPy, scikit-learn, Git, SQL, Streamlit,
+Natural Language Processing
+
+EDUCATION
+Bachelor of Science in Computer Science, Westfield Science College, 2025
+
+EXPERIENCE
+Data Analyst Intern — Quiet River Insights (fictional)
+- Cleaned operational datasets with pandas and NumPy.
+- Built scikit-learn regression and classification baselines.
+- Shared analyses in Streamlit and maintained notebooks with Git.
+
+PROJECTS
+Survey Comment Analyzer: Tokenized comments and trained an NLP sentiment model.
+Forecast Review: Compared simple models and documented data leakage risks.

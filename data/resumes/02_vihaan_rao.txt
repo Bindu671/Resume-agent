@@ -1,0 +1,25 @@
+Vihaan Rao
+vihaan.rao@candidate.example
++91 90000 10002
+
+PROFESSIONAL SUMMARY
+Entry-level AI developer with 1.5 years of experience in academic research and a
+software internship. Interested in reliable NLP systems and model evaluation.
+
+SKILLS
+Python, Machine Learning, NLP, scikit-learn, pandas, NumPy, Git, REST API,
+Flask, PostgreSQL, Docker, Generative AI, Large Language Models
+
+EDUCATION
+Bachelor of Engineering in Computer Science, Meridian Technical College, 2025
+
+EXPERIENCE
+Machine Learning Intern — Blue Orchard Systems (fictional)
+- Created text preprocessing and feature engineering workflows.
+- Trained scikit-learn classifiers and reviewed failure cases with mentors.
+- Added a Flask REST API and automated input validation.
+
+PROJECTS
+Support Ticket Router: Used TF-IDF and linear models to classify support text.
+LLM Evaluation Notebook: Tested a small local language model and documented
+quality, latency, and responsible-use tradeoffs.

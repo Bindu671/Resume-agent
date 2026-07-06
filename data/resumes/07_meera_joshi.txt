@@ -1,0 +1,22 @@
+Meera Joshi
+meera.joshi@candidate.example
++91 90000 10007
+
+PROFESSIONAL SUMMARY
+Recent Information Science graduate with academic experience in analytics and
+an interest in practical AI applications.
+
+SKILLS
+Python, pandas, NumPy, SQL, Git, Machine Learning, scikit-learn, Tableau
+
+EDUCATION
+Bachelor of Engineering in Information Science, Greenline Engineering School, 2025
+
+EXPERIENCE
+6 months of experience as a Data Intern — Amber Loom Retail (fictional)
+- Prepared sales datasets and automated quality checks.
+- Tested basic machine learning models in scikit-learn.
+
+PROJECTS
+Customer Segmentation: Explored clustering and visualized cluster profiles.
+Data Quality Toolkit: Wrote reusable Python and pandas validation functions.

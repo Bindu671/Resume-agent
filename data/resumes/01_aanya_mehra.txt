@@ -1,0 +1,27 @@
+Aanya Mehra
+aanya.mehra@candidate.example
++91 90000 10001
+
+PROFESSIONAL SUMMARY
+Junior machine learning engineer with 2 years of experience through an internship
+and applied AI fellowship. Builds reproducible Natural Language Processing
+experiments and communicates model limitations clearly.
+
+SKILLS
+Python, Machine Learning, Natural Language Processing, scikit-learn, pandas,
+NumPy, Git, REST APIs, FastAPI, SQL, Docker, Generative AI, Streamlit
+
+EDUCATION
+B.Tech in Computer Science, Northbridge Institute of Technology, 2024
+
+EXPERIENCE
+AI Engineering Fellow — Lattice Finch Labs (fictional)
+- Prepared text datasets with pandas and NumPy.
+- Evaluated classification models and documented precision and recall.
+- Built tested REST APIs for model inference with FastAPI.
+
+PROJECTS
+Resume Topic Classifier: Built a scikit-learn TF-IDF pipeline, error analysis
+report, and Streamlit demonstration.
+Responsible Prompt Study: Compared deterministic baselines with Generative AI
+outputs and recorded privacy and hallucination risks.

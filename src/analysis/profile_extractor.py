@@ -11,13 +11,12 @@ EMAIL_PATTERN = re.compile(
     r"(?<![\w.+-])[\w.+-]+@(?:[A-Za-z0-9-]+\.)+[A-Za-z]{2,}(?![\w.-])"
 )
 PHONE_PATTERN = re.compile(
-    r"(?<!\d)(?:\+?\d{1,3}[\s.-]?)?(?:\(?\d{2,5}\)?[\s.-]?)?"
-    r"\d{3,5}[\s.-]?\d{4}(?!\d)"
+    r"(?<!\d)(?:\+?\d[\d(). \t-]{8,}\d)(?!\d)"
 )
-NAME_PATTERN = re.compile(r"^[A-Za-z][A-Za-z.'-]+(?:\s+[A-Za-z][A-Za-z.'-]+){1,3}$")
+NAME_PATTERN = re.compile(r"^[A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+){1,3}$")
 NAME_EXCLUSIONS = {
     "resume", "curriculum vitae", "profile", "summary", "objective",
-    "experience", "education", "contact", "skills",
+    "experience", "education", "contact", "skills", "technical profile",
 }
 
 EDUCATION_ALIASES: tuple[tuple[str, tuple[str, ...]], ...] = (

@@ -1,0 +1,25 @@
+Zoya Kapoor
+zoya.kapoor@candidate.example
++91 90000 10003
+
+PROFESSIONAL SUMMARY
+Recent graduate with 1 year of experience delivering data and NLP projects.
+Enjoys clean Python, transparent evaluation, and collaborative Git workflows.
+
+SKILLS
+Python, Machine Learning, Natural Language Processing, scikit-learn, pandas,
+NumPy, Git, GitHub, REST APIs, FastAPI, SQL, Generative AI, Docker
+
+EDUCATION
+B.E. in Computer Science, Cedar Valley Engineering College, 2025
+
+EXPERIENCE
+Data Science Intern — Saffron Byte Analytics (fictional)
+- Cleaned datasets using pandas and NumPy.
+- Developed machine learning baselines for document categorization.
+- Presented evaluation findings and maintained code through Git reviews.
+
+PROJECTS
+Document Similarity Service: Combined scikit-learn TF-IDF, cosine similarity,
+and a FastAPI REST API.
+Generative AI Safety Notes: Created a rubric for factuality and sensitive data.

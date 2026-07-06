@@ -1,0 +1,22 @@
+Dev Malhotra
+dev.malhotra@candidate.example
++91 90000 10012
+
+PROFESSIONAL SUMMARY
+Business operations graduate with experience preparing reports and coordinating
+small teams. Exploring technology roles through introductory courses.
+
+SKILLS
+HTML, CSS, MySQL
+
+EDUCATION
+MBA, Maplebridge School of Management, 2024
+
+EXPERIENCE
+2 years of experience as an Operations Coordinator — Lantern Desk Co. (fictional)
+- Prepared weekly performance reports and coordinated vendor schedules.
+- Maintained spreadsheet-based process documentation.
+
+PROJECTS
+Personal Website: Built a simple HTML and CSS portfolio.
+Contact Register: Designed a small MySQL practice database.

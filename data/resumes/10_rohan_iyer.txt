@@ -1,0 +1,21 @@
+Rohan Iyer
+rohan.iyer@candidate.example
++91 90000 10010
+
+PROFESSIONAL SUMMARY
+Frontend engineer with 2 years of experience creating responsive web products.
+
+SKILLS
+JavaScript, TypeScript, React, HTML, CSS, Git, GitHub, Node.js, Express.js
+
+EDUCATION
+BCA, Silver Oak Computing Academy, 2024
+
+EXPERIENCE
+Frontend Developer — Pixel Harbor Studio (fictional)
+- Built React interfaces and reusable TypeScript components.
+- Collaborated using Git and implemented Node.js integrations.
+
+PROJECTS
+Portfolio Builder: React application with an Express.js backend.
+Accessibility Checklist: Browser-based review and reporting tool.

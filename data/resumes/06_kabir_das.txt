@@ -1,0 +1,24 @@
+Kabir Das
+kabir.das@candidate.example
++91 90000 10006
+
+PROFESSIONAL SUMMARY
+Graduate software engineer with 2 years of experience from internships and
+freelance projects. Combines web APIs with introductory machine learning.
+
+SKILLS
+Python, JavaScript, Git, GitHub, REST APIs, Flask, PostgreSQL, Docker,
+Machine Learning, pandas, scikit-learn, Generative AI
+
+EDUCATION
+BCA, Lakeview College of Computing, 2024
+
+EXPERIENCE
+Software Engineering Intern — Copper Leaf Digital (fictional)
+- Implemented Flask REST APIs and PostgreSQL integrations.
+- Used GitHub pull requests and Docker development environments.
+- Added a simple scikit-learn recommendation baseline.
+
+PROJECTS
+FAQ Assistant: Combined keyword retrieval with basic Generative AI concepts.
+Inventory Predictor: Prepared data in pandas and evaluated regression models.

@@ -1,0 +1,22 @@
+Neel Batra
+neel.batra@candidate.example
++91 90000 10008
+
+PROFESSIONAL SUMMARY
+Backend developer with 1 year of experience building small web services and an
+emerging interest in AI engineering.
+
+SKILLS
+Python, Django, REST API, Git, GitHub, MySQL, Docker, Linux, pandas
+
+EDUCATION
+B.Tech in Information Technology, Hillcrest Institute, 2025
+
+EXPERIENCE
+Junior Backend Intern — Nimbus Acorn Apps (fictional)
+- Developed Django REST APIs and database features.
+- Used Git reviews, Linux tooling, and Docker.
+
+PROJECTS
+Article Tagger: Used Python keyword rules and pandas for data preparation.
+API Monitor: Collected latency metrics and generated weekly reports.

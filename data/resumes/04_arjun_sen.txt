@@ -1,0 +1,24 @@
+Arjun Sen
+arjun.sen@candidate.example
++91 90000 10004
+
+PROFESSIONAL SUMMARY
+Python developer transitioning into applied machine learning with 2 years of
+experience in backend development and data automation.
+
+SKILLS
+Python, Machine Learning, pandas, NumPy, Git, REST API, FastAPI, SQL, Docker,
+scikit-learn
+
+EDUCATION
+B.Tech in Information Technology, Eastshore Technical University, 2024
+
+EXPERIENCE
+Junior Python Developer — Paper Kite Software (fictional)
+- Built REST APIs and validation services with FastAPI.
+- Automated reporting pipelines with pandas.
+- Prototyped scikit-learn classification models for internal routing.
+
+PROJECTS
+Model Metrics Dashboard: Compared machine learning runs and displayed results.
+Text Search Prototype: Used TF-IDF but has limited formal NLP experience.

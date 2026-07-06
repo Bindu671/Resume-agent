@@ -1,0 +1,21 @@
+Sana Qureshi
+sana.qureshi@candidate.example
++91 90000 10011
+
+PROFESSIONAL SUMMARY
+Cloud operations trainee interested in automation and reliable infrastructure.
+
+SKILLS
+Linux, AWS, Azure, Docker, Kubernetes, Git, Python, Redis
+
+EDUCATION
+Bachelor of Science in Information Technology, Riverbend College, 2025
+
+EXPERIENCE
+1 year of experience as a Cloud Support Trainee — Fern Cloud Works (fictional)
+- Investigated Linux service incidents and wrote Python automation scripts.
+- Maintained Docker images and Kubernetes deployment notes.
+
+PROJECTS
+Resource Checker: Python script for cloud resource inventory.
+Container Lab: Deployed a small Redis-backed service on Kubernetes.

@@ -1,0 +1,1131 @@
+[
+  {
+    "candidate_identifier": "01_aanya_mehra.txt",
+    "candidate_name": "Aanya Mehra",
+    "final_score": 52.29,
+    "similarity_score": 25.07,
+    "technical_skill_score": 92.86,
+    "experience_relevance_score": null,
+    "education_relevance_score": 66.67,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Docker",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "FastAPI",
+      "Streamlit"
+    ],
+    "missing_skills": [
+      "Flask"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 13.9288,
+      "technical_skills": 30.9524,
+      "experience": 0.0,
+      "education": 7.4074
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 2.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Aanya Mehra",
+      "contact": {
+        "email": "aanya.mehra@candidate.example",
+        "phone": "+91 90000 10001"
+      },
+      "technical_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Streamlit"
+      ],
+      "education": [
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "experience_years": 2.0
+    },
+    "raw_similarity": 0.250719,
+    "rank": 1,
+    "ranking_explanation": "Overall score: 52.29/100. Matched skills: Python, SQL, Docker, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API, FastAPI, Streamlit. Missing required skills: Flask. Education relevance: 66.67/100."
+  },
+  {
+    "candidate_identifier": "03_zoya_kapoor.txt",
+    "candidate_name": "Zoya Kapoor",
+    "final_score": 46.95,
+    "similarity_score": 19.74,
+    "technical_skill_score": 85.71,
+    "experience_relevance_score": null,
+    "education_relevance_score": 66.67,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Docker",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 10.9672,
+      "technical_skills": 28.5714,
+      "experience": 0.0,
+      "education": 7.4074
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 1.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Zoya Kapoor",
+      "contact": {
+        "email": "zoya.kapoor@candidate.example",
+        "phone": "+91 90000 10003"
+      },
+      "technical_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "GitHub",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI"
+      ],
+      "education": [
+        "Bachelor of Engineering",
+        "Computer Science"
+      ],
+      "experience_years": 1.0
+    },
+    "raw_similarity": 0.197409,
+    "rank": 2,
+    "ranking_explanation": "Overall score: 46.95/100. Matched skills: Python, SQL, Docker, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API, FastAPI. Missing required skills: Flask, Streamlit. Education relevance: 66.67/100."
+  },
+  {
+    "candidate_identifier": "02_vihaan_rao.txt",
+    "candidate_name": "Vihaan Rao",
+    "final_score": 42.81,
+    "similarity_score": 16.57,
+    "technical_skill_score": 78.57,
+    "experience_relevance_score": null,
+    "education_relevance_score": 66.67,
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "Flask"
+    ],
+    "missing_skills": [
+      "SQL",
+      "FastAPI",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 9.2075,
+      "technical_skills": 26.1905,
+      "experience": 0.0,
+      "education": 7.4074
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 1.5,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Vihaan Rao",
+      "contact": {
+        "email": "vihaan.rao@candidate.example",
+        "phone": "+91 90000 10002"
+      },
+      "technical_skills": [
+        "Python",
+        "PostgreSQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "Large Language Models",
+        "REST API",
+        "Flask"
+      ],
+      "education": [
+        "Bachelor of Engineering",
+        "Computer Science"
+      ],
+      "experience_years": 1.5
+    },
+    "raw_similarity": 0.165735,
+    "rank": 3,
+    "ranking_explanation": "Overall score: 42.81/100. Matched skills: Python, Docker, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API, Flask. Missing required skills: SQL, FastAPI, Streamlit. Education relevance: 66.67/100."
+  },
+  {
+    "candidate_identifier": "04_arjun_sen.txt",
+    "candidate_name": "Arjun Sen",
+    "final_score": 38.19,
+    "similarity_score": 14.94,
+    "technical_skill_score": 78.57,
+    "experience_relevance_score": null,
+    "education_relevance_score": 33.33,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Docker",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "REST API",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Generative AI",
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 8.2974,
+      "technical_skills": 26.1905,
+      "experience": 0.0,
+      "education": 3.7037
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 2.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Arjun Sen",
+      "contact": {
+        "email": "arjun.sen@candidate.example",
+        "phone": "+91 90000 10004"
+      },
+      "technical_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "REST API",
+        "FastAPI"
+      ],
+      "education": [
+        "Bachelor of Technology",
+        "Information Technology"
+      ],
+      "experience_years": 2.0
+    },
+    "raw_similarity": 0.149353,
+    "rank": 4,
+    "ranking_explanation": "Overall score: 38.19/100. Matched skills: Python, SQL, Docker, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, REST API, FastAPI. Missing required skills: Generative AI, Flask, Streamlit. Education relevance: 33.33/100."
+  },
+  {
+    "candidate_identifier": "05_isha_narang.txt",
+    "candidate_name": "Isha Narang",
+    "final_score": 33.68,
+    "similarity_score": 15.38,
+    "technical_skill_score": 64.29,
+    "experience_relevance_score": null,
+    "education_relevance_score": 33.33,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Streamlit"
+    ],
+    "missing_skills": [
+      "Docker",
+      "Generative AI",
+      "REST API",
+      "FastAPI",
+      "Flask"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 8.5462,
+      "technical_skills": 21.4286,
+      "experience": 0.0,
+      "education": 3.7037
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 1.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Isha Narang",
+      "contact": {
+        "email": "isha.narang@candidate.example",
+        "phone": "+91 90000 10005"
+      },
+      "technical_skills": [
+        "Python",
+        "SQL",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Streamlit"
+      ],
+      "education": [
+        "Bachelor of Science",
+        "Computer Science"
+      ],
+      "experience_years": 1.0
+    },
+    "raw_similarity": 0.153831,
+    "rank": 5,
+    "ranking_explanation": "Overall score: 33.68/100. Matched skills: Python, SQL, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Streamlit. Missing required skills: Docker, Generative AI, REST API, FastAPI, Flask. Education relevance: 33.33/100."
+  },
+  {
+    "candidate_identifier": "06_kabir_das.txt",
+    "candidate_name": "Kabir Das",
+    "final_score": 29.1,
+    "similarity_score": 13.8,
+    "technical_skill_score": 64.29,
+    "experience_relevance_score": null,
+    "education_relevance_score": 0.0,
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "Git",
+      "Machine Learning",
+      "scikit-learn",
+      "pandas",
+      "Generative AI",
+      "REST API",
+      "Flask"
+    ],
+    "missing_skills": [
+      "SQL",
+      "Natural Language Processing",
+      "NumPy",
+      "FastAPI",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 7.6672,
+      "technical_skills": 21.4286,
+      "experience": 0.0,
+      "education": 0.0
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 2.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Kabir Das",
+      "contact": {
+        "email": "kabir.das@candidate.example",
+        "phone": "+91 90000 10006"
+      },
+      "technical_skills": [
+        "Python",
+        "JavaScript",
+        "PostgreSQL",
+        "Docker",
+        "Git",
+        "GitHub",
+        "Machine Learning",
+        "scikit-learn",
+        "pandas",
+        "Generative AI",
+        "REST API",
+        "Flask"
+      ],
+      "education": [
+        "BCA"
+      ],
+      "experience_years": 2.0
+    },
+    "raw_similarity": 0.138009,
+    "rank": 6,
+    "ranking_explanation": "Overall score: 29.10/100. Matched skills: Python, Docker, Git, Machine Learning, scikit-learn, pandas, Generative AI, REST API, Flask. Missing required skills: SQL, Natural Language Processing, NumPy, FastAPI, Streamlit. Education relevance: 0.00/100."
+  },
+  {
+    "candidate_identifier": "07_meera_joshi.txt",
+    "candidate_name": "Meera Joshi",
+    "final_score": 27.86,
+    "similarity_score": 13.48,
+    "technical_skill_score": 50.0,
+    "experience_relevance_score": null,
+    "education_relevance_score": 33.33,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "scikit-learn",
+      "pandas",
+      "NumPy"
+    ],
+    "missing_skills": [
+      "Docker",
+      "Natural Language Processing",
+      "Generative AI",
+      "REST API",
+      "FastAPI",
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 7.4877,
+      "technical_skills": 16.6667,
+      "experience": 0.0,
+      "education": 3.7037
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": null,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Meera Joshi",
+      "contact": {
+        "email": "meera.joshi@candidate.example",
+        "phone": "+91 90000 10007"
+      },
+      "technical_skills": [
+        "Python",
+        "SQL",
+        "Git",
+        "Machine Learning",
+        "scikit-learn",
+        "pandas",
+        "NumPy"
+      ],
+      "education": [
+        "Bachelor of Engineering",
+        "Information Science"
+      ],
+      "experience_years": null
+    },
+    "raw_similarity": 0.134778,
+    "rank": 7,
+    "ranking_explanation": "Overall score: 27.86/100. Matched skills: Python, SQL, Git, Machine Learning, scikit-learn, pandas, NumPy. Missing required skills: Docker, Natural Language Processing, Generative AI, REST API, FastAPI, Flask, Streamlit. Education relevance: 33.33/100."
+  },
+  {
+    "candidate_identifier": "09_tara_menon.txt",
+    "candidate_name": "Tara Menon",
+    "final_score": 20.38,
+    "similarity_score": 10.97,
+    "technical_skill_score": 42.86,
+    "experience_relevance_score": null,
+    "education_relevance_score": 0.0,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "scikit-learn",
+      "pandas",
+      "NumPy"
+    ],
+    "missing_skills": [
+      "Docker",
+      "Git",
+      "Natural Language Processing",
+      "Generative AI",
+      "REST API",
+      "FastAPI",
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 6.0936,
+      "technical_skills": 14.2857,
+      "experience": 0.0,
+      "education": 0.0
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": null,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Tara Menon",
+      "contact": {
+        "email": "tara.menon@candidate.example",
+        "phone": "+91 90000 10009"
+      },
+      "technical_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "Machine Learning",
+        "scikit-learn",
+        "pandas",
+        "NumPy"
+      ],
+      "education": [
+        "Bachelor of Science"
+      ],
+      "experience_years": null
+    },
+    "raw_similarity": 0.109685,
+    "rank": 8,
+    "ranking_explanation": "Overall score: 20.38/100. Matched skills: Python, SQL, Machine Learning, scikit-learn, pandas, NumPy. Missing required skills: Docker, Git, Natural Language Processing, Generative AI, REST API, FastAPI, Flask, Streamlit. Education relevance: 0.00/100."
+  },
+  {
+    "candidate_identifier": "08_neel_batra.txt",
+    "candidate_name": "Neel Batra",
+    "final_score": 18.66,
+    "similarity_score": 5.49,
+    "technical_skill_score": 35.71,
+    "experience_relevance_score": null,
+    "education_relevance_score": 33.33,
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "Git",
+      "pandas",
+      "REST API"
+    ],
+    "missing_skills": [
+      "SQL",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "NumPy",
+      "Generative AI",
+      "FastAPI",
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 3.0474,
+      "technical_skills": 11.9048,
+      "experience": 0.0,
+      "education": 3.7037
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 1.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Neel Batra",
+      "contact": {
+        "email": "neel.batra@candidate.example",
+        "phone": "+91 90000 10008"
+      },
+      "technical_skills": [
+        "Python",
+        "MySQL",
+        "Docker",
+        "Git",
+        "GitHub",
+        "Linux",
+        "pandas",
+        "REST API",
+        "Django"
+      ],
+      "education": [
+        "Bachelor of Technology",
+        "Information Technology"
+      ],
+      "experience_years": 1.0
+    },
+    "raw_similarity": 0.054854,
+    "rank": 9,
+    "ranking_explanation": "Overall score: 18.66/100. Matched skills: Python, Docker, Git, pandas, REST API. Missing required skills: SQL, Machine Learning, Natural Language Processing, scikit-learn, NumPy, Generative AI, FastAPI, Flask, Streamlit. Education relevance: 33.33/100."
+  },
+  {
+    "candidate_identifier": "11_sana_qureshi.txt",
+    "candidate_name": "Sana Qureshi",
+    "final_score": 8.94,
+    "similarity_score": 3.23,
+    "technical_skill_score": 21.43,
+    "experience_relevance_score": null,
+    "education_relevance_score": 0.0,
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "Git"
+    ],
+    "missing_skills": [
+      "SQL",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "FastAPI",
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 1.7942,
+      "technical_skills": 7.1429,
+      "experience": 0.0,
+      "education": 0.0
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 1.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Sana Qureshi",
+      "contact": {
+        "email": "sana.qureshi@candidate.example",
+        "phone": "+91 90000 10011"
+      },
+      "technical_skills": [
+        "Python",
+        "Redis",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Linux"
+      ],
+      "education": [
+        "Bachelor of Science",
+        "Information Technology"
+      ],
+      "experience_years": 1.0
+    },
+    "raw_similarity": 0.032295,
+    "rank": 10,
+    "ranking_explanation": "Overall score: 8.94/100. Matched skills: Python, Docker, Git. Missing required skills: SQL, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API, FastAPI, Flask, Streamlit. Education relevance: 0.00/100."
+  },
+  {
+    "candidate_identifier": "10_rohan_iyer.txt",
+    "candidate_name": "Rohan Iyer",
+    "final_score": 3.39,
+    "similarity_score": 1.82,
+    "technical_skill_score": 7.14,
+    "experience_relevance_score": null,
+    "education_relevance_score": 0.0,
+    "matched_skills": [
+      "Git"
+    ],
+    "missing_skills": [
+      "Python",
+      "SQL",
+      "Docker",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "FastAPI",
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 1.0095,
+      "technical_skills": 2.381,
+      "experience": 0.0,
+      "education": 0.0
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 2.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Rohan Iyer",
+      "contact": {
+        "email": "rohan.iyer@candidate.example",
+        "phone": "+91 90000 10010"
+      },
+      "technical_skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "Git",
+        "GitHub",
+        "HTML",
+        "CSS"
+      ],
+      "education": [
+        "BCA"
+      ],
+      "experience_years": 2.0
+    },
+    "raw_similarity": 0.018171,
+    "rank": 11,
+    "ranking_explanation": "Overall score: 3.39/100. Matched skills: Git. Missing required skills: Python, SQL, Docker, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API, FastAPI, Flask, Streamlit. Education relevance: 0.00/100."
+  },
+  {
+    "candidate_identifier": "12_dev_malhotra.txt",
+    "candidate_name": "Dev Malhotra",
+    "final_score": 0.62,
+    "similarity_score": 1.12,
+    "technical_skill_score": 0.0,
+    "experience_relevance_score": null,
+    "education_relevance_score": 0.0,
+    "matched_skills": [],
+    "missing_skills": [
+      "Python",
+      "SQL",
+      "Docker",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "FastAPI",
+      "Flask",
+      "Streamlit"
+    ],
+    "effective_weights": {
+      "similarity": 0.5556,
+      "technical_skills": 0.3333,
+      "experience": 0.0,
+      "education": 0.1111
+    },
+    "component_contributions": {
+      "similarity": 0.6229,
+      "technical_skills": 0.0,
+      "experience": 0.0,
+      "education": 0.0
+    },
+    "scoring_details": {
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Git",
+        "Machine Learning",
+        "Natural Language Processing",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "Generative AI",
+        "REST API",
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+      ],
+      "required_experience_years": null,
+      "candidate_experience_years": 2.0,
+      "required_education": [
+        "Bachelor of Engineering",
+        "Bachelor of Technology",
+        "Computer Science"
+      ],
+      "unavailable_components": [
+        "experience"
+      ],
+      "experience_note": "Experience years are a conservative estimate from explicit resume text."
+    },
+    "candidate_profile": {
+      "candidate_name": "Dev Malhotra",
+      "contact": {
+        "email": "dev.malhotra@candidate.example",
+        "phone": "+91 90000 10012"
+      },
+      "technical_skills": [
+        "MySQL",
+        "HTML",
+        "CSS"
+      ],
+      "education": [
+        "MBA"
+      ],
+      "experience_years": 2.0
+    },
+    "raw_similarity": 0.011212,
+    "rank": 12,
+    "ranking_explanation": "Overall score: 0.62/100. Missing required skills: Python, SQL, Docker, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API, FastAPI, Flask, Streamlit. Education relevance: 0.00/100."
+  }
+]

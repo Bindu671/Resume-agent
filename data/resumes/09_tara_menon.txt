@@ -1,0 +1,20 @@
+Tara Menon
+tara.menon@candidate.example
++91 90000 10009
+
+PROFESSIONAL SUMMARY
+Mathematics graduate exploring data science through coursework and personal
+projects. Comfortable with analysis but new to production engineering.
+
+SKILLS
+Python, pandas, NumPy, Machine Learning, scikit-learn, R, SQL
+
+EDUCATION
+Bachelor of Science in Mathematics, Sunrise Arts and Science College, 2025
+
+EXPERIENCE
+Academic project experience only; no professional experience stated.
+
+PROJECTS
+Housing Price Study: Evaluated regression models and cross-validation.
+News Clustering: Applied TF-IDF and unsupervised machine learning to articles.
